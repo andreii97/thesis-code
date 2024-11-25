@@ -17,6 +17,7 @@ Dieses Projekt enthält ein Jupyter-Notebook, das Datenanalysen und Visualisieru
    ```bash
    git clone https://github.com/your_username/your_repository.git
    cd your_repository
+   ```
 
 3. **Erstelle eine virtuelle Umgebung**
   ```bash
